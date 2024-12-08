@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/informational-world-manga/static/css/main.16ef29b0.css",
-    "main.js": "/informational-world-manga/static/js/main.5a79cb08.js",
+    "main.css": "/informational-world-manga/static/css/main.857faf84.css",
+    "main.js": "/informational-world-manga/static/js/main.a5232510.js",
     "static/media/page1.jpg": "/informational-world-manga/static/media/page1.a14647d9e8c779ad1ee8.jpg",
     "static/media/wallpaper.jpg": "/informational-world-manga/static/media/wallpaper.11f3d42f37d64c61b19a.jpg",
     "index.html": "/informational-world-manga/index.html",
-    "main.16ef29b0.css.map": "/informational-world-manga/static/css/main.16ef29b0.css.map",
-    "main.5a79cb08.js.map": "/informational-world-manga/static/js/main.5a79cb08.js.map"
+    "main.857faf84.css.map": "/informational-world-manga/static/css/main.857faf84.css.map",
+    "main.a5232510.js.map": "/informational-world-manga/static/js/main.a5232510.js.map"
   },
   "entrypoints": [
-    "static/css/main.16ef29b0.css",
-    "static/js/main.5a79cb08.js"
+    "static/css/main.857faf84.css",
+    "static/js/main.a5232510.js"
   ]
 }
