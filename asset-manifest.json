@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/informational-world-manga/static/css/main.16ef29b0.css",
+    "main.js": "/informational-world-manga/static/js/main.ac1cd4b5.js",
+    "static/media/page1.jpg": "/informational-world-manga/static/media/page1.a14647d9e8c779ad1ee8.jpg",
+    "static/media/wallpaper.jpg": "/informational-world-manga/static/media/wallpaper.11f3d42f37d64c61b19a.jpg",
+    "index.html": "/informational-world-manga/index.html",
+    "main.16ef29b0.css.map": "/informational-world-manga/static/css/main.16ef29b0.css.map",
+    "main.ac1cd4b5.js.map": "/informational-world-manga/static/js/main.ac1cd4b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16ef29b0.css",
+    "static/js/main.ac1cd4b5.js"
+  ]
+}
